@@ -1,0 +1,8 @@
+{
+  "name": "Jahnvi Saxena Portfolio",
+  "description": "A high-end, dark-themed portfolio featuring a project roadmap, GitHub contribution calendar, and interactive skill displays for a Software Developer and ML Engineer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
