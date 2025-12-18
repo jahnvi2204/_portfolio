@@ -17,20 +17,7 @@ const GithubSection: React.FC = () => {
 
         <div className="overflow-x-auto pb-6 scrollbar-hide relative z-10 flex justify-center">
           <div className="p-6 rounded-2xl bg-black/40 border border-white/5">
-            <GitHubCalendar
-              username="jahnvi2204"
-              blockSize={15}
-              blockMargin={5}
-              color="#3b82f6"
-              fontSize={16}
-              theme={{
-                light: ['#ffffff05', '#1e3a8a66', '#1e40af99', '#3b82f6cc', '#60a5fa'],
-                dark: ['#ffffff05', '#1e3a8a66', '#1e40af99', '#3b82f6cc', '#60a5fa'],
-              }}
-              style={{
-                color: '#e2e8f0',
-              }}
-            />
+            <GitHubCalendar username="jahnvi2204" />
           </div>
         </div>
 
