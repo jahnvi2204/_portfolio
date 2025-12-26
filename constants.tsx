@@ -31,13 +31,13 @@ export const PROJECTS: Project[] = [
   },
   {
     title: "SereNova - Mental Health Chatbot",
-    subtitle: "Python, NLP, Sentiment Analysis, TensorFlow",
-    tags: ["TensorFlow", "NLP", "Python", "Mental Health"],
+    subtitle: "Python, NLP, Sentiment Analysis, Gen AI",
+    tags: ["Gen AI", "NLP", "Python", "Mental Health"],
     date: "2024",
     githubUrl: "https://github.com/jahnvi2204/SereNova-AI",
-    liveUrl: "https://serenova-chatbot.vercel.app",
+    liveUrl: "https://sere-nova-ai-3gij.vercel.app/",
     description: [
-      "Created an AI-driven mental health support platform utilizing TensorFlow and NLP.",
+      "Created an AI-driven mental health support platform utilizing Gen AI and NLP.",
       "Implemented real-time Sentiment Analysis and NLU to provide tailored CBT techniques.",
       "Integrated a crisis detection mechanism with high-confidence trigger phrases for user safety."
     ]
