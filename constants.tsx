@@ -35,7 +35,7 @@ export const PROJECTS: Project[] = [
     tags: ["Gen AI", "NLP", "Python", "Mental Health"],
     date: "2024",
     githubUrl: "https://github.com/jahnvi2204/SereNova-AI",
-    liveUrl: "https://sere-nova-ai-3gij.vercel.app/",
+    liveUrl: "https://sere-nova-ai-3gij.vercel.app",
     description: [
       "Created an AI-driven mental health support platform utilizing Gen AI and NLP.",
       "Implemented real-time Sentiment Analysis and NLU to provide tailored CBT techniques.",
